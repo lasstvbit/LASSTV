@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Abertos",Canal GLOBO
+https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Filmes",Rede Lasstv
+https://cdn.jmvstream.com/w/AVJ-10490/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
+https://cdn.jmvstream.com/w/AVJ-10490/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Canais | Aberto",Tv Escola" group-title="Canais | Aberto",Tv Escola
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w908786114.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/3XI0vfAWtettjam6rJYDrnEvgMvTHEjGlUdYjM5Er-XDq3VeK-ONWy_rpEz2CVArHH8HoSk5TLmolSd3NbONBOOVkDrZ7ZIwpqHHSSprK8_IZ3xJtwsMw9jDAAyuD2ZugTkIpDOoxHihmQ" group-title="Canais | Aberto",Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w358899857.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/558706639/redetvtwitter.jpg" group-title="Canais | Aberto",Redetv" group-title="Canais | Aberto",Redetv
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w820678324.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
