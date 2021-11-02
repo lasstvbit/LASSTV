@@ -265,7 +265,8 @@ https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0a22927f64d134a9c1a_History2.png" group-title="Canais | Abertos",Canal History2
 https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Abertos",Canal GLOBO
+https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 
 
